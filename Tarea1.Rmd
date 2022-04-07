@@ -1,0 +1,36 @@
+---
+title: "Tarea 1"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\section{1. Identificar evento de interés y la variable respuesta}
+
+
+**a) Se realiza un seguimiento durante 13 años a un grupo de adultos de al menos 60 años de edad para ver qué tanto tiempo permanecen vivos.**
+
+
+- Evento: Muerte del adulto.
+
+- Variable respuesta: Tiempo en años durante un periodo de 13 años que trascurre hasta que el adulto de al menos 60 años muere. 
+
+**b) Un grupo de pacientes con un trasplante de corazón son monitoreados para ver cuánto tiempo sobreviven.**
+
+- Evento: Muerte del paciente.
+
+- Variable respuesta: Tiempo que trascurre hasta que el paciente muere.
+
+\section{2. }
+
+2. (15 pts) Resuelva, A MANO, usando los datos sobre Hepatitis Cr´onica
+Activa (CAH). Los datos se anexan (CAH.txt). Estos datos son de un
+ensayo cl´ınico descrito en Kirk et al. (1980). 44 pacientes con CAH se
+aleatorizaron a una droga llamada prednisolona o a un grupo de control sin
+tratamiento. El tiempo de supervivencia en meses, despu´es de ser admitido
+al ensayo era la respuesta de inter´es. Los gr´aficos pedidos deben ser hechos a mano. Con estos datos obtenga una estimaci´on para S(t) usando el
+método de KM y el de NA. !No se aceptar´an en computador!. Note
+que se deben evidenciar las tablas de vida. No olvide el an´alisis descriptivo.
+Interprete.
